@@ -27,4 +27,5 @@ This clone recreates the basic structure of the GeeksforGeeks website, including
 ---
 
 ## 📂 Project Structure
+[!imge](https://github.com/ritesh01-hub/gfg-clone/blob/9b8e631f51f3b47233f75d7540a32cf40724fd77/Screenshot%202026-02-02%20001830.png)
 
